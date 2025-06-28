@@ -17,9 +17,13 @@ Step-by-Step Guide to Activating Your Account
 1. Visit `activate.uhc.com <https://activate.uhc.com>`_.
 2. Click on **“Register Now”** if you're a first-time user.
 3. Enter the required information:
+
    - Your name (as it appears on your insurance card)
+
    - Date of birth
+
    - Member ID or Social Security Number
+
 4. Create your username and password.
 5. Set up your security questions for account recovery.
 6. Click **“Submit”** to complete your activation.
@@ -44,18 +48,23 @@ Frequently Asked Questions (FAQs)
 ---------------------------------
 
 **Q: Is activate.uhc.com safe to use?**  
+
 A: Yes, it's the official and secure UnitedHealthcare portal for account activation and login.
 
 **Q: Do I need my Member ID to activate?**  
+
 A: It's highly recommended but not always required—you can use your SSN and DOB instead.
 
 **Q: What if I forget my login info?**  
+
 A: You can reset your username or password using your email and security questions.
 
 **Q: Can I use this portal if I’m on Medicare or Medicaid?**  
+
 A: Yes, as long as you're enrolled in a UHC plan, this portal will guide you to the correct dashboard for your plan type.
 
 **Q: Is there a mobile app available?**  
+
 A: Yes, after activation, you can download the UHC app and log in using the same credentials.
 
 Conclusion
