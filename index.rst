@@ -9,12 +9,12 @@ How to Easily Activate Your UnitedHealthcare Account
         </a>
     </div>
 
-Activating your UnitedHealthcare account is quick and essential for managing your health benefits online. By visiting `activate.uhc.com <https://activate.uhc.com>`_, you can register your account to access your digital ID card, view claims, find in-network doctors, and manage prescriptions anytime. The portal is secure, user-friendly, and works across all devices. Whether you're a new member or transitioning plans, activating your UHC account ensures you’re always in control of your healthcare. Don’t wait—go to activate.uhc.com and get started today.
+Activating your UnitedHealthcare account is quick and essential for managing your health benefits online. By visiting `activate.uhc.com <#>`_, you can register your account to access your digital ID card, view claims, find in-network doctors, and manage prescriptions anytime. The portal is secure, user-friendly, and works across all devices. Whether you're a new member or transitioning plans, activating your UHC account ensures you’re always in control of your healthcare. Don’t wait—go to activate.uhc.com and get started today.
 
 Step-by-Step Guide to Activating Your Account
 ---------------------------------------------
 
-1. Visit `activate.uhc.com <https://activate.uhc.com>`_.
+1. Visit `activate.uhc.com <#>`_.
 2. Click on **“Register Now”** if you're a first-time user.
 3. Enter the required information:
 
@@ -42,7 +42,7 @@ Advantages of Activating Your UHC Account
 My Experience Using activate.uhc.com
 ------------------------------------
 
-When I received my UHC welcome packet, I was a bit overwhelmed by all the paper documents. But once I activated my account on `activate.uhc.com <https://activate.uhc.com>`_, everything changed. I was able to see my full plan summary, download my ID card, and even find an urgent care near me within minutes. The portal was clean, fast, and easy to use—even for someone who isn’t tech-savvy. Now I use it regularly to check on claims and keep track of preventive care.
+When I received my UHC welcome packet, I was a bit overwhelmed by all the paper documents. But once I activated my account on `activate.uhc.com <#>`_, everything changed. I was able to see my full plan summary, download my ID card, and even find an urgent care near me within minutes. The portal was clean, fast, and easy to use—even for someone who isn’t tech-savvy. Now I use it regularly to check on claims and keep track of preventive care.
 
 Frequently Asked Questions (FAQs)
 ---------------------------------
@@ -70,7 +70,7 @@ A: Yes, after activation, you can download the UHC app and log in using the same
 Conclusion
 ----------
 
-Activating your UnitedHealthcare account at `activate.uhc.com <https://activate.uhc.com>`_ is a simple but crucial step toward taking control of your healthcare. From accessing your digital ID to managing prescriptions and finding in-network providers, the portal offers everything you need in one place. It’s fast, secure, and makes life a lot easier—especially when you need quick answers or proof of coverage. If you haven’t activated your account yet, don’t wait. Do it today and take the first step toward smarter, simpler healthcare management.
+Activating your UnitedHealthcare account at `activate.uhc.com <#>`_ is a simple but crucial step toward taking control of your healthcare. From accessing your digital ID to managing prescriptions and finding in-network providers, the portal offers everything you need in one place. It’s fast, secure, and makes life a lot easier—especially when you need quick answers or proof of coverage. If you haven’t activated your account yet, don’t wait. Do it today and take the first step toward smarter, simpler healthcare management.
 
 .. raw:: html
 
