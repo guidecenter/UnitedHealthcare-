@@ -63,10 +63,6 @@ A: You can reset your username or password using your email and security questio
 
 A: Yes, as long as you're enrolled in a UHC plan, this portal will guide you to the correct dashboard for your plan type.
 
-**Q: Is there a mobile app available?**  
-
-A: Yes, after activation, you can download the UHC app and log in using the same credentials.
-
 Conclusion
 ----------
 
