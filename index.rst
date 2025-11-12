@@ -4,7 +4,7 @@ How to Easily Activate Your UnitedHealthcare Account ?
 .. raw:: html
 
     <div style="text-align:center; margin-top:30px;">
-        <a href=" https://pre.im/?4YTrHbkkyqwGG3LPk1arI9UQYXCwp8o8bDeg1HG3Nkx4MeGuNFXgvYgBR9JDUXMpRyRoti92KZGT6" style="background-color:#28a745; color:#ffffff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow:0 4px 6px rgba(0,0,0,0.1); display:inline-block;">
+        <a href="https://us6.my?aHR0cHM6Ly91bml0ZWRoZWFsdGhjYXJlaGVscGxpbmUucmVhZHRoZWRvY3MuaW8vZW4vbGF0ZXN0" style="background-color:#28a745; color:#ffffff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow:0 4px 6px rgba(0,0,0,0.1); display:inline-block;">
             Activate UHC Account Now
         </a>
     </div>
@@ -71,13 +71,13 @@ Activating your UnitedHealthcare account at `activate.uhc.com <#>`_ is a simple 
 .. raw:: html
 
     <div style="text-align:center; margin-top:30px;">
-        <a href=" https://pre.im/?4YTrHbkkyqwGG3LPk1arI9UQYXCwp8o8bDeg1HG3Nkx4MeGuNFXgvYgBR9JDUXMpRyRoti92KZGT6" style="background-color:#007bff; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
+        <a href=" https://us6.my?aHR0cHM6Ly91bml0ZWRoZWFsdGhjYXJlaGVscGxpbmUucmVhZHRoZWRvY3MuaW8vZW4vbGF0ZXN0" style="background-color:#007bff; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
             🔗 Activate Your UHC Account
         </a>
-        <a href=" https://pre.im/?4YTrHbkkyqwGG3LPk1arI9UQYXCwp8o8bDeg1HG3Nkx4MeGuNFXgvYgBR9JDUXMpRyRoti92KZGT6" style="background-color:#28a745; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
+        <a href=" https://us6.my?aHR0cHM6Ly91bml0ZWRoZWFsdGhjYXJlaGVscGxpbmUucmVhZHRoZWRvY3MuaW8vZW4vbGF0ZXN0" style="background-color:#28a745; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
             🔗 Member Resources
         </a>
-        <a href=" https://pre.im/?4YTrHbkkyqwGG3LPk1arI9UQYXCwp8o8bDeg1HG3Nkx4MeGuNFXgvYgBR9JDUXMpRyRoti92KZGT6" style="background-color:#6c757d; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
+        <a href=" https://us6.my?aHR0cHM6Ly91bml0ZWRoZWFsdGhjYXJlaGVscGxpbmUucmVhZHRoZWRvY3MuaW8vZW4vbGF0ZXN0" style="background-color:#6c757d; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
             🔗 Contact Support
         </a>
     </div>
